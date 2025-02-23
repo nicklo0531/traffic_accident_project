@@ -1,0 +1,13 @@
+,Feature,Correlation,P-value,Strength
+0,Start_Lat,0.0690596909559005,0.0,No correlation
+1,Start_Lng,0.052862202489432866,0.0,No correlation
+2,End_Lat,0.08372405941974677,0.0,No correlation
+3,End_Lng,0.09318953834461201,0.0,No correlation
+4,Distance(mi),0.034786898800182105,0.0,No correlation
+5,Temperature(F),-0.02032655475969014,0.0,No correlation
+6,Wind_Chill(F),-0.07003941932200027,0.0,No correlation
+7,Humidity(%),0.02229349872334173,0.0,No correlation
+8,Pressure(in),0.042346923535496114,0.0,No correlation
+9,Visibility(mi),-0.0034725674073183047,1.3941506093118843e-21,No correlation
+10,Wind_Speed(mph),0.04021387463490397,0.0,No correlation
+11,Precipitation(in),0.021080185806332044,0.0,No correlation
