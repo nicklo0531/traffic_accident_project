@@ -2,6 +2,8 @@
 
 A **machine learning model** trained on real-world traffic data to predict accident severity.
 
+Demo: https://mdst-tap-deployed.onrender.com
+
 ## Features
 - **Inputs:** Latitude, Longitude, Weather, Time, Traffic Conditions...
 - **Output:** Predicted Accident Severity (from 1 to 4).
